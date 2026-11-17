@@ -1,0 +1,495 @@
+Entity,Year,Installed capacity for different renewable technologies
+All renewables (total),2000,763.94165
+All renewables (total),2001,785.04565
+All renewables (total),2002,805.9863
+All renewables (total),2003,836.23505
+All renewables (total),2004,869.0441
+All renewables (total),2005,908.40063
+All renewables (total),2006,949.881
+All renewables (total),2007,999.30676
+All renewables (total),2008,1062.3982
+All renewables (total),2009,1143.4758
+All renewables (total),2010,1226.5267
+All renewables (total),2011,1331.3591
+All renewables (total),2012,1446.2083
+All renewables (total),2013,1570.126
+All renewables (total),2014,1700.0487
+All renewables (total),2015,1852.7697
+All renewables (total),2016,2021.3016
+All renewables (total),2017,2187.566
+All renewables (total),2018,2358.148
+All renewables (total),2019,2541.9038
+All renewables (total),2020,2811.1064
+All renewables (total),2021,3077.1157
+All renewables (total),2022,3379.2378
+All renewables (total),2023,3875.7563
+All renewables (total),2024,4461.6313
+All renewables (total),2025,5155.0073
+Bioenergy (total),2000,31.108576
+Bioenergy (total),2001,33.53601
+Bioenergy (total),2002,35.491558
+Bioenergy (total),2003,38.370678
+Bioenergy (total),2004,40.74342
+Bioenergy (total),2005,45.436073
+Bioenergy (total),2006,49.71104
+Bioenergy (total),2007,52.71051
+Bioenergy (total),2008,56.139137
+Bioenergy (total),2009,63.87699
+Bioenergy (total),2010,68.1517
+Bioenergy (total),2011,74.378204
+Bioenergy (total),2012,78.3197
+Bioenergy (total),2013,84.93275
+Bioenergy (total),2014,89.84415
+Bioenergy (total),2015,95.44434
+Bioenergy (total),2016,103.867096
+Bioenergy (total),2017,109.66231
+Bioenergy (total),2018,116.75079
+Bioenergy (total),2019,122.5341
+Bioenergy (total),2020,129.76935
+Bioenergy (total),2021,136.41307
+Bioenergy (total),2022,143.07036
+Bioenergy (total),2023,147.79239
+Bioenergy (total),2024,152.50092
+Bioenergy (total),2025,155.36418
+Biogas,2000,2.519515
+Biogas,2001,2.8510911
+Biogas,2002,3.115297
+Biogas,2003,3.547862
+Biogas,2004,3.8432572
+Biogas,2005,4.900606
+Biogas,2006,5.485813
+Biogas,2007,6.2924266
+Biogas,2008,6.771159
+Biogas,2009,8.439474
+Biogas,2010,9.614234
+Biogas,2011,11.505142
+Biogas,2012,13.196084
+Biogas,2013,14.028011
+Biogas,2014,15.09053
+Biogas,2015,15.791611
+Biogas,2016,16.510094
+Biogas,2017,17.348356
+Biogas,2018,18.356876
+Biogas,2019,19.178461
+Biogas,2020,19.875584
+Biogas,2021,20.104948
+Biogas,2022,20.518404
+Biogas,2023,20.85522
+Biogas,2024,21.119646
+Biogas,2025,21.225315
+Concentrated solar power,2000,0.419
+Concentrated solar power,2001,0.246
+Concentrated solar power,2002,0.202
+Concentrated solar power,2003,0.3884
+Concentrated solar power,2004,0.3884
+Concentrated solar power,2005,0.3884
+Concentrated solar power,2006,0.4124
+Concentrated solar power,2007,0.479
+Concentrated solar power,2008,0.535
+Concentrated solar power,2009,0.7651
+Concentrated solar power,2010,1.2658199
+Concentrated solar power,2011,1.70432
+Concentrated solar power,2012,2.56652
+Concentrated solar power,2013,3.941583
+Concentrated solar power,2014,4.599083
+Concentrated solar power,2015,4.850193
+Concentrated solar power,2016,4.970193
+Concentrated solar power,2017,5.0701632
+Concentrated solar power,2018,5.8109837
+Concentrated solar power,2019,6.368134
+Concentrated solar power,2020,6.405834
+Concentrated solar power,2021,6.3662043
+Concentrated solar power,2022,6.5640936
+Concentrated solar power,2023,6.864094
+Concentrated solar power,2024,7.495094
+Concentrated solar power,2025,8.333994
+Geothermal,2000,8.2727
+Geothermal,2001,7.9607
+Geothermal,2002,8.1132
+Geothermal,2003,8.1881
+Geothermal,2004,8.208799
+Geothermal,2005,8.555817
+Geothermal,2006,8.758716
+Geothermal,2007,9.012736
+Geothermal,2008,9.3190155
+Geothermal,2009,9.754416
+Geothermal,2010,9.921716
+Geothermal,2011,10.065466
+Geothermal,2012,10.524567
+Geothermal,2013,10.794366
+Geothermal,2014,11.244416
+Geothermal,2015,11.843466
+Geothermal,2016,12.169374
+Geothermal,2017,12.75398
+Geothermal,2018,13.196476
+Geothermal,2019,13.823755
+Geothermal,2020,14.183774
+Geothermal,2021,14.467982
+Geothermal,2022,14.705642
+Geothermal,2023,15.1015215
+Geothermal,2024,15.364696
+Geothermal,2025,15.623535
+Hydropower,2000,663.8796
+Hydropower,2001,669.9363
+Hydropower,2002,681.07294
+Hydropower,2003,699.99005
+Hydropower,2004,719.3062
+Hydropower,2005,738.9509
+Hydropower,2006,759.2824
+Hydropower,2007,784.5629
+Hydropower,2008,813.16376
+Hydropower,2009,842.9081
+Hydropower,2010,872.59106
+Hydropower,2011,900.23956
+Hydropower,2012,933.3854
+Hydropower,2013,980.1874
+Hydropower,2014,1015.8015
+Hydropower,2015,1047.2346
+Hydropower,2016,1081.9562
+Hydropower,2017,1099.2634
+Hydropower,2018,1117.4058
+Hydropower,2019,1132.8761
+Hydropower,2020,1153.2491
+Hydropower,2021,1176.2826
+Hydropower,2022,1198.6019
+Hydropower,2023,1209.2324
+Hydropower,2024,1216.4052
+Hydropower,2025,1234.1528
+Hydropower (total),2000,786.9784
+Hydropower (total),2001,795.74475
+Hydropower (total),2002,808.92096
+Hydropower (total),2003,827.72687
+Hydropower (total),2004,849.18536
+Hydropower (total),2005,874.0484
+Hydropower (total),2006,897.502
+Hydropower (total),2007,927.0085
+Hydropower (total),2008,957.9169
+Hydropower (total),2009,992.5017
+Hydropower (total),2010,1025.9272
+Hydropower (total),2011,1057.1052
+Hydropower (total),2012,1092.9615
+Hydropower (total),2013,1142.1687
+Hydropower (total),2014,1179.5725
+Hydropower (total),2015,1213.8833
+Hydropower (total),2016,1255.9128
+Hydropower (total),2017,1277.1514
+Hydropower (total),2018,1296.677
+Hydropower (total),2019,1312.4377
+Hydropower (total),2020,1334.4879
+Hydropower (total),2021,1362.7153
+Hydropower (total),2022,1396.6031
+Hydropower (total),2023,1411.8344
+Hydropower (total),2024,1427.0946
+Hydropower (total),2025,1455.6842
+Liquid biofuels,2000,0.0027100001
+Liquid biofuels,2001,0.00771
+Liquid biofuels,2002,0.0110100005
+Liquid biofuels,2003,0.066010006
+Liquid biofuels,2004,0.63401
+Liquid biofuels,2005,0.80345
+Liquid biofuels,2006,0.92938703
+Liquid biofuels,2007,1.036215
+Liquid biofuels,2008,1.21548
+Liquid biofuels,2009,1.699723
+Liquid biofuels,2010,1.87337
+Liquid biofuels,2011,1.908875
+Liquid biofuels,2012,2.068338
+Liquid biofuels,2013,2.043143
+Liquid biofuels,2014,2.325106
+Liquid biofuels,2015,2.395711
+Liquid biofuels,2016,2.322275
+Liquid biofuels,2017,2.357124
+Liquid biofuels,2018,2.4883249
+Liquid biofuels,2019,3.387059
+Liquid biofuels,2020,2.40077
+Liquid biofuels,2021,1.923517
+Liquid biofuels,2022,1.947093
+Liquid biofuels,2023,2.241103
+Liquid biofuels,2024,2.009949
+Liquid biofuels,2025,2.013962
+Marine,2000,0.23825
+Marine,2001,0.24025
+Marine,2002,0.24325
+Marine,2003,0.24425
+Marine,2004,0.24325
+Marine,2005,0.24125
+Marine,2006,0.24025
+Marine,2007,0.24255
+Marine,2008,0.24555
+Marine,2009,0.24455
+Marine,2010,0.2499
+Marine,2011,0.247926
+Marine,2012,0.254655
+Marine,2013,0.514612
+Marine,2014,0.517427
+Marine,2015,0.51798797
+Marine,2016,0.524108
+Marine,2017,0.527072
+Marine,2018,0.527054
+Marine,2019,0.525034
+Marine,2020,0.491341
+Marine,2021,0.49076802
+Marine,2022,0.49234602
+Marine,2023,0.493796
+Marine,2024,0.489768
+Marine,2025,0.489769
+Mixed hydro plants,2000,41.91619
+Mixed hydro plants,2001,47.73619
+Mixed hydro plants,2002,48.36119
+Mixed hydro plants,2003,48.09119
+Mixed hydro plants,2004,49.09919
+Mixed hydro plants,2005,51.41272
+Mixed hydro plants,2006,51.83469
+Mixed hydro plants,2007,51.871693
+Mixed hydro plants,2008,52.368607
+Mixed hydro plants,2009,52.573605
+Mixed hydro plants,2010,52.805607
+Mixed hydro plants,2011,53.094288
+Mixed hydro plants,2012,53.439808
+Mixed hydro plants,2013,53.70823
+Mixed hydro plants,2014,53.74632
+Mixed hydro plants,2015,54.16151
+Mixed hydro plants,2016,56.361404
+Mixed hydro plants,2017,57.42268
+Mixed hydro plants,2018,57.332474
+Mixed hydro plants,2019,57.353546
+Mixed hydro plants,2020,57.31792
+Mixed hydro plants,2021,57.731354
+Mixed hydro plants,2022,59.872517
+Mixed hydro plants,2023,59.19495
+Mixed hydro plants,2024,59.298306
+Mixed hydro plants,2025,59.838425
+Offshore wind,2000,0.06694999
+Offshore wind,2001,0.07595
+Offshore wind,2002,0.23995
+Offshore wind,2003,0.50955003
+Offshore wind,2004,0.59475
+Offshore wind,2005,0.68475
+Offshore wind,2006,0.88275
+Offshore wind,2007,1.09425
+Offshore wind,2008,1.44245
+Offshore wind,2009,2.1340501
+Offshore wind,2010,3.05535
+Offshore wind,2011,3.7866101
+Offshore wind,2012,5.34475
+Offshore wind,2013,7.18305
+Offshore wind,2014,8.50257
+Offshore wind,2015,11.73287
+Offshore wind,2016,14.37725
+Offshore wind,2017,18.804901
+Offshore wind,2018,23.559599
+Offshore wind,2019,28.263298
+Offshore wind,2020,34.33995
+Offshore wind,2021,54.268375
+Offshore wind,2022,62.54248
+Offshore wind,2023,74.4896
+Offshore wind,2024,82.760414
+Offshore wind,2025,91.1405
+Onshore wind,2000,16.881317
+Onshore wind,2001,23.872374
+Onshore wind,2002,30.474352
+Onshore wind,2003,38.14397
+Onshore wind,2004,47.0585
+Onshore wind,2005,57.77133
+Onshore wind,2006,72.25379
+Onshore wind,2007,90.41164
+Onshore wind,2008,114.019714
+Onshore wind,2009,147.95607
+Onshore wind,2010,177.71161
+Onshore wind,2011,216.24608
+Onshore wind,2012,261.36124
+Onshore wind,2013,292.2761
+Onshore wind,2014,340.63977
+Onshore wind,2015,404.24646
+Onshore wind,2016,452.48743
+Onshore wind,2017,495.68216
+Onshore wind,2018,539.4404
+Onshore wind,2019,594.2465
+Onshore wind,2020,698.3322
+Onshore wind,2021,769.2722
+Onshore wind,2022,839.7883
+Onshore wind,2023,943.11884
+Onshore wind,2024,1049.0746
+Onshore wind,2025,1199.0929
+Pumped storage,2000,80.83855
+Pumped storage,2001,77.72255
+Pumped storage,2002,79.13755
+Pumped storage,2003,79.29755
+Pumped storage,2004,80.423546
+Pumped storage,2005,83.26655
+Pumped storage,2006,85.96055
+Pumped storage,2007,90.13955
+Pumped storage,2008,91.926544
+Pumped storage,2009,96.55005
+Pumped storage,2010,100.05205
+Pumped storage,2011,103.27321
+Pumped storage,2012,105.60529
+Pumped storage,2013,107.72924
+Pumped storage,2014,109.47074
+Pumped storage,2015,111.90174
+Pumped storage,2016,116.99478
+Pumped storage,2017,119.84336
+Pumped storage,2018,120.36566
+Pumped storage,2019,120.612564
+Pumped storage,2020,122.31942
+Pumped storage,2021,127.082924
+Pumped storage,2022,136.51334
+Pumped storage,2023,141.77168
+Pumped storage,2024,149.58289
+Pumped storage,2025,159.8787
+Renewable municipal waste,2000,3.52233
+Renewable municipal waste,2001,3.6900802
+Renewable municipal waste,2002,3.781235
+Renewable municipal waste,2003,4.181735
+Renewable municipal waste,2004,4.303435
+Renewable municipal waste,2005,4.582256
+Renewable municipal waste,2006,4.9452043
+Renewable municipal waste,2007,4.886549
+Renewable municipal waste,2008,5.0962305
+Renewable municipal waste,2009,5.30498
+Renewable municipal waste,2010,6.593303
+Renewable municipal waste,2011,6.935867
+Renewable municipal waste,2012,7.396883
+Renewable municipal waste,2013,8.496881
+Renewable municipal waste,2014,8.733109
+Renewable municipal waste,2015,9.659275
+Renewable municipal waste,2016,10.450595
+Renewable municipal waste,2017,11.37457
+Renewable municipal waste,2018,12.547553
+Renewable municipal waste,2019,14.042963
+Renewable municipal waste,2020,15.854766
+Renewable municipal waste,2021,18.777205
+Renewable municipal waste,2022,20.112764
+Renewable municipal waste,2023,21.291021
+Renewable municipal waste,2024,22.372456
+Renewable municipal waste,2025,23.27775
+Solar (total),2000,1.2213535
+Solar (total),2001,1.3319664
+Solar (total),2002,1.6317205
+Solar (total),2003,2.3429854
+Solar (total),2004,3.427396
+Solar (total),2005,4.9233394
+Solar (total),2006,6.4868364
+Solar (total),2007,8.956226
+Solar (total),2008,15.22942
+Solar (total),2009,23.544443
+Solar (total),2010,41.488235
+Solar (total),2011,72.6579
+Solar (total),2012,102.81575
+Solar (total),2013,139.68687
+Solar (total),2014,178.84773
+Solar (total),2015,226.5979
+Solar (total),2016,298.50723
+Solar (total),2017,392.3427
+Solar (total),2018,487.84647
+Solar (total),2019,590.1197
+Solar (total),2020,721.2222
+Solar (total),2021,865.921
+Solar (total),2022,1057.8683
+Solar (total),2023,1423.988
+Solar (total),2024,1883.1776
+Solar (total),2025,2396.7092
+Solar photovoltaic,2000,0.756669
+Solar photovoltaic,2001,1.0238141
+Solar photovoltaic,2002,1.341977
+Solar photovoltaic,2003,1.848395
+Solar photovoltaic,2004,2.916281
+Solar photovoltaic,2005,4.3913684
+Solar photovoltaic,2006,5.9124722
+Solar photovoltaic,2007,8.266139
+Solar photovoltaic,2008,14.4450035
+Solar photovoltaic,2009,22.483068
+Solar photovoltaic,2010,39.84921
+Solar photovoltaic,2011,70.42784
+Solar photovoltaic,2012,99.54065
+Solar photovoltaic,2013,134.7275
+Solar photovoltaic,2014,172.96739
+Solar photovoltaic,2015,220.15082
+Solar photovoltaic,2016,291.68625
+Solar photovoltaic,2017,384.91513
+Solar photovoltaic,2018,479.046
+Solar photovoltaic,2019,580.46674
+Solar photovoltaic,2020,710.7258
+Solar photovoltaic,2021,854.81244
+Solar photovoltaic,2022,1045.6914
+Solar photovoltaic,2023,1410.5559
+Solar photovoltaic,2024,1866.8978
+Solar photovoltaic,2025,2378.0415
+Solar photovoltaic (off-grid),2000,0.045684572
+Solar photovoltaic (off-grid),2001,0.062152456
+Solar photovoltaic (off-grid),2002,0.087743536
+Solar photovoltaic (off-grid),2003,0.10619042
+Solar photovoltaic (off-grid),2004,0.12271507
+Solar photovoltaic (off-grid),2005,0.14357135
+Solar photovoltaic (off-grid),2006,0.16196446
+Solar photovoltaic (off-grid),2007,0.21108857
+Solar photovoltaic (off-grid),2008,0.24941605
+Solar photovoltaic (off-grid),2009,0.29627573
+Solar photovoltaic (off-grid),2010,0.37320715
+Solar photovoltaic (off-grid),2011,0.5257366
+Solar photovoltaic (off-grid),2012,0.70858246
+Solar photovoltaic (off-grid),2013,1.0177978
+Solar photovoltaic (off-grid),2014,1.2812693
+Solar photovoltaic (off-grid),2015,1.5968931
+Solar photovoltaic (off-grid),2016,1.8507733
+Solar photovoltaic (off-grid),2017,2.3574421
+Solar photovoltaic (off-grid),2018,2.989473
+Solar photovoltaic (off-grid),2019,3.2848325
+Solar photovoltaic (off-grid),2020,4.0906334
+Solar photovoltaic (off-grid),2021,4.7423744
+Solar photovoltaic (off-grid),2022,5.612752
+Solar photovoltaic (off-grid),2023,6.5681014
+Solar photovoltaic (off-grid),2024,8.784686
+Solar photovoltaic (off-grid),2025,10.333791
+Solid biofuels,2000,23.44678
+Solid biofuels,2001,25.35928
+Solid biofuels,2002,26.959255
+Solid biofuels,2003,28.948132
+Solid biofuels,2004,30.299015
+Solid biofuels,2005,33.09325
+Solid biofuels,2006,36.235542
+Solid biofuels,2007,38.289818
+Solid biofuels,2008,40.61169
+Solid biofuels,2009,45.39646
+Solid biofuels,2010,46.87753
+Solid biofuels,2011,50.64267
+Solid biofuels,2012,52.219425
+Solid biofuels,2013,56.90575
+Solid biofuels,2014,59.671444
+Solid biofuels,2015,63.299812
+Solid biofuels,2016,70.16094
+Solid biofuels,2017,74.753136
+Solid biofuels,2018,79.31916
+Solid biofuels,2019,82.08945
+Solid biofuels,2020,87.30674
+Solid biofuels,2021,90.86453
+Solid biofuels,2022,94.9166
+Solid biofuels,2023,97.62305
+Solid biofuels,2024,101.24706
+Solid biofuels,2025,102.92154
+Wind (total),2000,16.96093
+Wind (total),2001,23.954521
+Wind (total),2002,30.7232
+Wind (total),2003,38.65972
+Wind (total),2004,47.65947
+Wind (total),2005,58.4623
+Wind (total),2006,73.14276
+Wind (total),2007,91.51582
+Wind (total),2008,115.4748
+Wind (total),2009,150.1039
+Wind (total),2010,180.83994
+Wind (total),2011,220.1776
+Wind (total),2012,266.93732
+Wind (total),2013,299.75797
+Wind (total),2014,349.49323
+Wind (total),2015,416.38437
+Wind (total),2016,467.3158
+Wind (total),2017,514.97186
+Wind (total),2018,563.5159
+Wind (total),2019,623.076
+Wind (total),2020,733.2712
+Wind (total),2021,824.1905
+Wind (total),2022,903.0115
+Wind (total),2023,1018.3177
+Wind (total),2024,1132.5869
+Wind (total),2025,1291.015
